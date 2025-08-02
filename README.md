@@ -27,4 +27,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51af971b-ec3c-4244-aebe-fe4f807d51b7" />
 ## 🔐 Auth Service (Microservice) + 🛒 Cart Service + 🚪 API Gateway + 🔑 JWT Authority = Clean Architecture
 <img width="1642" height="770" alt="image" src="https://github.com/user-attachments/assets/d0563e60-a120-4fca-a95e-351844801f81" />
+## Alot of layers 
+<img width="750" height="799" alt="image" src="https://github.com/user-attachments/assets/2cc55ffb-49a7-4eac-9e78-c79ac280e8ce" />
 
