@@ -24,3 +24,7 @@
   including the refresh token.
 * The backend verifies the refresh token, issues a new JWT, and the frontend updates its storage with the new token.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f27c8fae-524f-4493-adb3-1b67f4ea9d1a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51af971b-ec3c-4244-aebe-fe4f807d51b7" />
+## 🔐 Auth Service (Microservice) + 🛒 Cart Service + 🚪 API Gateway + 🔑 JWT Authority = Clean Architecture
+<img width="1642" height="770" alt="image" src="https://github.com/user-attachments/assets/d0563e60-a120-4fca-a95e-351844801f81" />
+
